@@ -1,4 +1,6 @@
-# Cs50-final-project
+# MECH TAG
+
+#### Video: https://youtu.be/evhY4zBtJQQ
 
 2D Tag Game in Godot
 A simple 2D tag game built in Godot 4, featuring two players who can tag each other by overlapping their "TagArea" collision zones. The "it" player is visually indicated by a red color, and tagging swaps the status between players.
